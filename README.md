@@ -17,9 +17,13 @@
 </a>
 <br>
 <a href="cumsoft.wixsite.com/cumsoft">
+  <!---
 <img src="https://static.wixstatic.com/media/5dac0a_f350a68550744e2e97c8b473ce00313f~mv2.gif" style="width:150px;height:150px;"></a>
 <img src="https://static.wixstatic.com/media/5dac0a_f350a68550744e2e97c8b473ce00313f~mv2.gif" style="width:150px;height:150px;"></a>
-<img src="https://static.wixstatic.com/media/5dac0a_f350a68550744e2e97c8b473ce00313f~mv2.gif" style="width:150px;height:150px;"></a>
+
+<iframe src="https://www.timeanddate.com/counters/fullscreen.html?mode=m&iso=20230108T00&year=2023&month=1&day=8&hour=0&min=0&sec=0&p0=179&msg=CUMSOFT%20ONE%20YEAR%20ANNIVERSARY" allowTransparency="true" frameborder="0" width="181" height="69"></iframe>
+<iframe src="https://www.timeanddate.com/counters/fullscreen.html?mode=a&iso=20230108T00&year=2023&month=1&day=8&hour=0&min=0&sec=0&p0=179&msg=CUMSOFT%20ONE%20YEAR%20ANNIVERSARY" allowTransparency="true" frameborder="0" width="181" height="69"></iframe>
+--->
 <br>
 <div>
 Copyright © 2022-Present by Cumsoft. All rights reserved.
@@ -27,3 +31,4 @@ Copyright © 2022-Present by Cumsoft. All rights reserved.
 Cumsoft™, Cumsoft™ and CumsoftCumsoft™ are trademarks of Cumsoft.
 <br><br> 
 </p>
+
