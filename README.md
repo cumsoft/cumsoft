@@ -16,7 +16,7 @@
   <img src="https://github.com/cumsoftcumsoft/cumsoftcumsoft/blob/70dbcdd6e6dd179511b3638a47c415dd8b44273f/cumsoftchrome_Teenyweeny.jpg" alt="Teenyweeny" style="width:250px;height:350px;">
 </a>
 <br>
-<a href="cumsoft.wixsite.com/cumsoft">
+<a href="https://github.com/cumsoftcumsoft">
   <!---
 <img src="https://static.wixstatic.com/media/5dac0a_f350a68550744e2e97c8b473ce00313f~mv2.gif" style="width:150px;height:150px;"></a>
 <img src="https://static.wixstatic.com/media/5dac0a_f350a68550744e2e97c8b473ce00313f~mv2.gif" style="width:150px;height:150px;"></a>
