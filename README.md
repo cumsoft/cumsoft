@@ -18,6 +18,8 @@
 <br>
 <a href="cumsoft.wixsite.com/cumsoft">
 <img src="https://static.wixstatic.com/media/5dac0a_f350a68550744e2e97c8b473ce00313f~mv2.gif" style="width:150px;height:150px;"></a>
+<img src="https://static.wixstatic.com/media/5dac0a_f350a68550744e2e97c8b473ce00313f~mv2.gif" style="width:150px;height:150px;"></a>
+<img src="https://static.wixstatic.com/media/5dac0a_f350a68550744e2e97c8b473ce00313f~mv2.gif" style="width:150px;height:150px;"></a>
 <br>
 <div>
 Copyright © 2022-Present by Cumsoft. All rights reserved.
