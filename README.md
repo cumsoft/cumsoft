@@ -35,6 +35,5 @@ Copyright © 2022-Present by Cumsoft. All rights reserved.
 <br>
 Cumsoft™, Cumsoft™ and CumsoftCumsoft™ are trademarks of Cumsoft.
 </div>
-<br><br>
 </p>
 
