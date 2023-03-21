@@ -35,7 +35,10 @@ Copyright © 2022-Present by Cumsoft. All rights reserved.
 <br>
 Cumsoft™, Cumsoft™ and CumsoftCumsoft™ are trademarks of Cumsoft.
 </div>
+  
+<!---  
 <h1><img src="https://github.com/Kenor69/Kenor69/blob/c6c48939a9d634229aced2dd61fe2f25393f568e/raccoon-dance%20(1).gif" height="48"><img src="https://github.com/Kenor69/Kenor69/blob/c6c48939a9d634229aced2dd61fe2f25393f568e/raccoon-dance%20(1).gif" height="48"><img src="https://github.com/Kenor69/Kenor69/blob/c6c48939a9d634229aced2dd61fe2f25393f568e/raccoon-dance%20(1).gif" height="48"><img src="https://github.com/Kenor69/Kenor69/blob/c6c48939a9d634229aced2dd61fe2f25393f568e/raccoon-dance%20(1).gif" height="48"><img src="https://github.com/Kenor69/Kenor69/blob/main/raccoon-dance%20(1).gif" height="48"><img src="https://github.com/Kenor69/Kenor69/blob/c6c48939a9d634229aced2dd61fe2f25393f568e/raccoon-dance%20(1).gif" height="48"><img src="https://github.com/Kenor69/Kenor69/blob/c6c48939a9d634229aced2dd61fe2f25393f568e/raccoon-dance%20(1).gif" height="48"></h1>
+--->
 
 </p>
 
