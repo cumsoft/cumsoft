@@ -3,20 +3,23 @@
 <div align="center">
   
 <a href="https://cumsoft.gumroad.com">
-  <img src="https://github.com/cumsoft/cumsoft/blob/8a2d9b122fd42dd0b1ea51056373dc93b65f956d/CumsoftOS-Teaser23copy.jpg" alt="CumsoftOS" style="width:810px;height:400px;">
+  <img src="https://github.com/cumsoft/cumsoft/blob/8a2d9b122fd42dd0b1ea51056373dc93b65f956d/CumsoftOS-Teaser23copy.jpg" alt="CumsoftOS" style="width:700px;height:320px;">
 </a>
 <br>
 <a href="https://cumsoft.gumroad.com/l/OvenLTE">
-  <img src="https://github.com/cumsoft/cumsoft/blob/a15f0883bc0bc630b8967a4cc369b0685ce9749f/OvenLTE_Flyer2.jpg" style="width:200px;height:280px;">
+  <img src="https://github.com/cumsoft/cumsoft/blob/a15f0883bc0bc630b8967a4cc369b0685ce9749f/OvenLTE_Flyer2.jpg" alt="OvenLTE" style="width:140px;height:200px;">
 </a>
 <a href="https://cumsoft.gumroad.com/l/Cumsoft_Cursorority_Pak1">
-  <img src="https://github.com/cumsoft/cumsoft/blob/a15f0883bc0bc630b8967a4cc369b0685ce9749f/Cursorority_Pak1_Flyer2.jpg" alt="Vikiki" style="width:200px;height:280px;">
+  <img src="https://github.com/cumsoft/cumsoft/blob/a15f0883bc0bc630b8967a4cc369b0685ce9749f/Cursorority_Pak1_Flyer2.jpg" alt="Cursorority_Pak1" style="width:140px;height:200px;">
+</a>
+<a href="https://cumsoft.gumroad.com/l/Cumsoft_Cursorority_Pak2beta">
+  <img src="https://github.com/cumsoft/cumsoft/blob/da080c90b9d3d8b3374742ec79871a0b2760ca8f/Cursorority_Pak2_Flyer2.jpg" alt="Cumsoft_Cursorority_Pak2beta" style="width:140px;height:200px;">
 </a>
 <a href="https://cumsoft.gumroad.com/l/Vikiki">
-  <img src="https://github.com/cumsoft/cumsoft/blob/a15f0883bc0bc630b8967a4cc369b0685ce9749f/Vikiki_Flyer2.jpg" alt="Teenyweeny" style="width:200px;height:280px;">
+  <img src="https://github.com/cumsoft/cumsoft/blob/a15f0883bc0bc630b8967a4cc369b0685ce9749f/Vikiki_Flyer2.jpg" alt=Vikiki" style="width:140px;height:200px;">
 </a>
 <a href="https://cumsoft.gumroad.com/l/Teenyweeny">
-  <img src="https://github.com/cumsoft/cumsoft/blob/a15f0883bc0bc630b8967a4cc369b0685ce9749f/Teenyweeny_Flyer2.jpg" alt="Teenyweeny" style="width:200px;height:280px;">
+  <img src="https://github.com/cumsoft/cumsoft/blob/a15f0883bc0bc630b8967a4cc369b0685ce9749f/Teenyweeny_Flyer2.jpg" alt="Teenyweeny" style="width:140px;height:200px;">
 </a>
 <br>
 ________________________________________________________________________
