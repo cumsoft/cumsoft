@@ -38,15 +38,13 @@ ________________________________________________________________________
 
 <iframe src="https://www.timeanddate.com/counters/fullscreen.html?mode=m&iso=20230108T00&year=2023&month=1&day=8&hour=0&min=0&sec=0&p0=179&msg=CUMSOFT%20ONE%20YEAR%20ANNIVERSARY" allowTransparency="true" frameborder="0" width="181" height="69"></iframe>
 <iframe src="https://www.timeanddate.com/counters/fullscreen.html?mode=a&iso=20230108T00&year=2023&month=1&day=8&hour=0&min=0&sec=0&p0=179&msg=CUMSOFT%20ONE%20YEAR%20ANNIVERSARY" allowTransparency="true" frameborder="0" width="181" height="69"></iframe>
---->
 <br>
 <div>
 Copyright © 2022-Present by Cumsoft. All rights reserved.
 <br>
 Cumsoft™, Cumsoft™ and CumsoftCumsoft™ are trademarks of Cumsoft.
 </div>
-  
-<!---  
+   
 <h1><img src="https://github.com/Kenor69/Kenor69/blob/c6c48939a9d634229aced2dd61fe2f25393f568e/raccoon-dance%20(1).gif" height="48"><img src="https://github.com/Kenor69/Kenor69/blob/c6c48939a9d634229aced2dd61fe2f25393f568e/raccoon-dance%20(1).gif" height="48"><img src="https://github.com/Kenor69/Kenor69/blob/c6c48939a9d634229aced2dd61fe2f25393f568e/raccoon-dance%20(1).gif" height="48"><img src="https://github.com/Kenor69/Kenor69/blob/c6c48939a9d634229aced2dd61fe2f25393f568e/raccoon-dance%20(1).gif" height="48"><img src="https://github.com/Kenor69/Kenor69/blob/main/raccoon-dance%20(1).gif" height="48"><img src="https://github.com/Kenor69/Kenor69/blob/c6c48939a9d634229aced2dd61fe2f25393f568e/raccoon-dance%20(1).gif" height="48"><img src="https://github.com/Kenor69/Kenor69/blob/c6c48939a9d634229aced2dd61fe2f25393f568e/raccoon-dance%20(1).gif" height="48"></h1>
 --->
 
