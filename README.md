@@ -10,7 +10,7 @@
 <div align="center">
   
 <a href="https://cumsoft.gumroad.com">
-  <img src="https://github.com/cumsoft/cumsoft/blob/8a2d9b122fd42dd0b1ea51056373dc93b65f956d/CumsoftOS-Teaser23copy.jpg" alt="CumsoftOS" style="width:700px;height:320px;">
+  <img src="https://github.com/cumsoft/cumsoft/blob/a7afaaa7ebfb1dfc734bf2365d3ed1732d951047/cumsoft10kwelcomeback.jpg" alt="CumsoftOS" style="width:720px;height:360px;">
 </a>
 <br>
 <a href="https://cumsoft.gumroad.com/l/OvenLTE">
