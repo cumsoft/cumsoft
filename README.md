@@ -1,11 +1,11 @@
 
-&nbsp; 🔘 [STORE](https://cumsoft.gumroad.com)
-&nbsp; 🔘 [ORG](https://github.com/cumsoftcumsoft)
-&nbsp; 🔘 [EMAIL](mailto:cumsoft.subscribe@gmail.com)
-&nbsp; 🔘 [WEBSITE](https://cumsoft.wixsite.com/cumsoft)
-&nbsp; 🔘 [WEBSITE2](https://cumsoftcumsoft.github.io/)
-&nbsp; 🔘 [VIRUSTOTAL](https://www.virustotal.com/gui/collection/88e81efe67f5153218c0dd5b07ef9cdea6e8e48988132458a6a2bed80780957f)
-&nbsp; 🔘 [INSTAGRAM](https://instagram.com/cumsoftcumsoft?igshid=YmMyMTA2M2Y=)
+&nbsp; 🔘 [ꜱᴛᴏʀᴇ](https://cumsoft.gumroad.com)
+&nbsp; 🔘 [ᴏʀɢ](https://github.com/cumsoftcumsoft)
+&nbsp; 🔘 [ᴇᴍᴀɪʟ](mailto:cumsoft.subscribe@gmail.com)
+&nbsp; 🔘 [ᴡᴇʙꜱɪᴛᴇ](https://cumsoft.wixsite.com/cumsoft)
+&nbsp; 🔘 [ᴡᴇʙꜱɪᴛᴇ2](https://cumsoftcumsoft.github.io/)
+&nbsp; 🔘 [ᴠɪʀᴜꜱᴛᴏᴛᴀʟ](https://www.virustotal.com/gui/collection/88e81efe67f5153218c0dd5b07ef9cdea6e8e48988132458a6a2bed80780957f)
+&nbsp; 🔘 [ɪɴꜱᴛᴀɢʀᴀᴍ](https://instagram.com/cumsoftcumsoft?igshid=YmMyMTA2M2Y=)
 </div>
 <div align="center">
   
