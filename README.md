@@ -1,5 +1,5 @@
 
-&nbsp; 🔘 [ꜱᴛᴏʀᴇ](https://cumsoft.gumroad.com)
+&nbsp; 🔴 [ꜱᴛᴏʀᴇ](https://cumsoft.gumroad.com)
 &nbsp; 🔘 [ᴏʀɢ](https://github.com/cumsoftcumsoft)
 &nbsp; 🔘 [ᴇᴍᴀɪʟ](mailto:cumsoft.subscribe@gmail.com)
 &nbsp; 🔘 [ᴡᴇʙꜱɪᴛᴇ](https://cumsoft.wixsite.com/cumsoft)
