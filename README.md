@@ -28,6 +28,9 @@
 <a href="https://cumsoft.gumroad.com/l/Teenyweeny">
   <img src="https://github.com/cumsoft/cumsoft/blob/a15f0883bc0bc630b8967a4cc369b0685ce9749f/Teenyweeny_Flyer2.jpg" alt="Teenyweeny" style="width:140px;height:200px;">
 </a>
+<a href="https://cumsoft.gumroad.com/l/Cumsoft_Cursorority_Pak3">
+  <img src="https://github.com/cumsoft/cumsoft/blob/a15f0883bc0bc630b8967a4cc369b0685ce9749f/Teenyweeny_Flyer2.jpg" alt="Teenyweeny" style="width:140px;height:200px;">
+</a>
 <br>
 ________________________________________________________________________
 <br>
