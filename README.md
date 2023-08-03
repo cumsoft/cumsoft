@@ -1,5 +1,5 @@
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp; [ꜱᴛᴏʀᴇ](https://cumsoft.gumroad.com)
 &nbsp; [ᴏʀɢ](https://github.com/cumsoftcumsoft)
 &nbsp; [ᴇᴍᴀɪʟ](mailto:cumsoft.subscribe@gmail.com)
@@ -15,25 +15,24 @@
 </a>
 <br>
 <a href="https://cumsoft.gumroad.com/l/OvenLTE">
-  <img src="https://github.com/cumsoft/cumsoft/blob/a15f0883bc0bc630b8967a4cc369b0685ce9749f/OvenLTE_Flyer2.jpg" alt="OvenLTE" style="width:110px;height:170px;">
+  <img src="https://github.com/cumsoft/cumsoft/blob/a15f0883bc0bc630b8967a4cc369b0685ce9749f/OvenLTE_Flyer2.jpg" alt="OvenLTE" style="width:90px;height:140px;">
 </a>
 <a href="https://cumsoft.gumroad.com/l/Cumsoft_Cursorority_Pak1">
-  <img src="https://github.com/cumsoft/cumsoft/blob/a15f0883bc0bc630b8967a4cc369b0685ce9749f/Cursorority_Pak1_Flyer2.jpg" alt="Cursorority_Pak1" style="width:110px;height:170px;">
+  <img src="https://github.com/cumsoft/cumsoft/blob/a15f0883bc0bc630b8967a4cc369b0685ce9749f/Cursorority_Pak1_Flyer2.jpg" alt="Cursorority_Pak1" style="width:90px;height:140px;">
 </a>
 <a href="https://cumsoft.gumroad.com/l/Cumsoft_Cursorority_Pak2beta">
-  <img src="https://github.com/cumsoft/cumsoft/blob/da080c90b9d3d8b3374742ec79871a0b2760ca8f/Cursorority_Pak2_Flyer2.jpg" alt="Cumsoft_Cursorority_Pak2beta" style="width:110px;height:170px;">
+  <img src="https://github.com/cumsoft/cumsoft/blob/da080c90b9d3d8b3374742ec79871a0b2760ca8f/Cursorority_Pak2_Flyer2.jpg" alt="Cumsoft_Cursorority_Pak2beta" style="width:90px;height:140px;">
 </a>
 <a href="https://cumsoft.gumroad.com/l/Vikiki">
-  <img src="https://github.com/cumsoft/cumsoft/blob/a15f0883bc0bc630b8967a4cc369b0685ce9749f/Vikiki_Flyer2.jpg" alt="Vikiki" style="width:110px;height:170px;">
+  <img src="https://github.com/cumsoft/cumsoft/blob/a15f0883bc0bc630b8967a4cc369b0685ce9749f/Vikiki_Flyer2.jpg" alt="Vikiki" style="width:90px;height:140px;">
 </a>
 <a href="https://cumsoft.gumroad.com/l/Teenyweeny">
-  <img src="https://github.com/cumsoft/cumsoft/blob/a15f0883bc0bc630b8967a4cc369b0685ce9749f/Teenyweeny_Flyer2.jpg" alt="Teenyweeny" style="width:110px;height:170px;">
+  <img src="https://github.com/cumsoft/cumsoft/blob/a15f0883bc0bc630b8967a4cc369b0685ce9749f/Teenyweeny_Flyer2.jpg" alt="Teenyweeny" style="width:90px;height:140px;">
 </a>
 <a href="https://cumsoft.gumroad.com/l/Cumsoft_Cursorority_Pak3">
-  <img src="https://github.com/cumsoft/cumsoft/blob/bb976263213fc99febb80ad84a37bac487b71ae9/Cursorority_Pak3_Flyer2.jpg" alt="Cursorority_Pak3" style="width:110px;height:170px;">
+  <img src="https://github.com/cumsoft/cumsoft/blob/bb976263213fc99febb80ad84a37bac487b71ae9/Cursorority_Pak3_Flyer2.jpg" alt="Cursorority_Pak3" style="width:90px;height:140px;">
 </a>
 <br>
-________________________________________________________________________
 <br>
 <a href="https://github.com/cumsoftcumsoft">
   <!---
