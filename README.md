@@ -1,4 +1,3 @@
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp; 🔶[ꜱᴛᴏʀᴇ](https://cumsoft.gumroad.com)
 &nbsp; 🟩[ᴏʀɢ](https://github.com/cumsoftcumsoft)
@@ -8,8 +7,11 @@
 &nbsp; 🛑[ᴠɪʀᴜꜱᴛᴏᴛᴀʟ](https://www.virustotal.com/gui/collection/88e81efe67f5153218c0dd5b07ef9cdea6e8e48988132458a6a2bed80780957f)
 &nbsp; 🟫[ɪɴꜱᴛᴀɢʀᴀᴍ](https://instagram.com/cumsoftcumsoft?igshid=YmMyMTA2M2Y=) 
 </div>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://cumsoft.gumroad.com">
+  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/welcome.png" alt="CumsoftOS" style="width:700px;height:150px;">
+</a>
 <div align="center">
-  
 <a href="https://cumsoft.gumroad.com">
   <img src="https://github.com/cumsoft/cumsoft/blob/0bce1cf1e92fad4ae5adb421913d88c4f745cd2c/cumsoft2023_HTTP_ERROR.png" alt="CumsoftOS" style="width:575px;height:400px;">
 </a>
