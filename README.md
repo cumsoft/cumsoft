@@ -1,5 +1,5 @@
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp; 🔶[ꜱᴛᴏʀᴇ](https://cumsoft.gumroad.com)
 &nbsp; 🟩[ᴏʀɢ](https://github.com/cumsoftcumsoft)
 &nbsp; 🟡[ᴇᴍᴀɪʟ](mailto:cumsoft.subscribe@gmail.com)
@@ -11,7 +11,7 @@
 <div align="center">
   
 <a href="https://cumsoft.gumroad.com">
-  <img src="https://github.com/cumsoft/cumsoft/blob/c8ba818608e4d080ddccb9c3ad8b50a8adbb97e3/Cumsoft_404page.png" alt="CumsoftOS" style="width:560px;height:460px;">
+  <img src="https://github.com/cumsoft/cumsoft/blob/0bce1cf1e92fad4ae5adb421913d88c4f745cd2c/cumsoft2023_HTTP_ERROR.png" alt="CumsoftOS" style="width:575px;height:400px;">
 </a>
 <br>
 <a href="https://cumsoft.gumroad.com/l/OvenLTE">
