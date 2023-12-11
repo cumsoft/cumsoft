@@ -1,11 +1,11 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp; 🔶[ꜱᴛᴏʀᴇ](https://cumsoft.gumroad.com)
-&nbsp; 🟩[ᴏʀɢ](https://github.com/cumsoftcumsoft)
-&nbsp; 🟡[ᴇᴍᴀɪʟ](mailto:cumsoft.subscribe@gmail.com)
-&nbsp; 🔷[ᴡᴇʙꜱɪᴛᴇ](https://cumsoft.wixsite.com/cumsoft)
-&nbsp; 🔻[ᴡᴇʙꜱɪᴛᴇ2](https://cumsoftcumsoft.github.io/)
-&nbsp; 🛑[ᴠɪʀᴜꜱᴛᴏᴛᴀʟ](https://www.virustotal.com/gui/collection/88e81efe67f5153218c0dd5b07ef9cdea6e8e48988132458a6a2bed80780957f)
-&nbsp; 🟫[ɪɴꜱᴛᴀɢʀᴀᴍ](https://instagram.com/cumsoftcumsoft?igshid=YmMyMTA2M2Y=) 
+&nbsp; 1️⃣[ꜱᴛᴏʀᴇ](https://cumsoft.gumroad.com)
+&nbsp; 2️⃣[ᴏʀɢ](https://github.com/cumsoftcumsoft)
+&nbsp; 3️⃣[ᴇᴍᴀɪʟ](mailto:cumsoft.subscribe@gmail.com)
+&nbsp; 4️⃣[ᴡᴇʙꜱɪᴛᴇ](https://cumsoft.wixsite.com/cumsoft)
+&nbsp; 5️⃣[ᴡᴇʙꜱɪᴛᴇ2](https://cumsoftcumsoft.github.io/)
+&nbsp; 6️⃣[ᴠɪʀᴜꜱᴛᴏᴛᴀʟ](https://www.virustotal.com/gui/collection/88e81efe67f5153218c0dd5b07ef9cdea6e8e48988132458a6a2bed80780957f)
+&nbsp; 7️⃣[ɪɴꜱᴛᴀɢʀᴀᴍ](https://instagram.com/cumsoftcumsoft?igshid=YmMyMTA2M2Y=) 
 </div>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://cumsoft.gumroad.com">
@@ -16,6 +16,7 @@
   <img src="https://github.com/cumsoft/cumsoft/blob/0bce1cf1e92fad4ae5adb421913d88c4f745cd2c/cumsoft2023_HTTP_ERROR.png" alt="CumsoftOS" style="width:575px;height:400px;">
 </a>
 <br>
+<!---
 <a href="https://cumsoft.gumroad.com/l/OvenLTE">
   <img src="https://github.com/cumsoft/cumsoft/blob/a15f0883bc0bc630b8967a4cc369b0685ce9749f/OvenLTE_Flyer2.jpg" alt="OvenLTE" style="width:90px;height:140px;">
 </a>
@@ -34,6 +35,7 @@
 <a href="https://cumsoft.gumroad.com/l/Cumsoft_Cursorority_Pak3">
   <img src="https://github.com/cumsoft/cumsoft/blob/bb976263213fc99febb80ad84a37bac487b71ae9/Cursorority_Pak3_Flyer2.jpg" alt="Cursorority_Pak3" style="width:90px;height:140px;">
 </a>
+--->
 <br>
 <br>
 <a href="https://github.com/cumsoftcumsoft">
