@@ -8,7 +8,6 @@
 &nbsp; 7️⃣ [ɪɴꜱᴛᴀɢʀᴀᴍ](https://instagram.com/cumsoftcumsoft?igshid=YmMyMTA2M2Y=) 
 </div>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
 <a href="https://cumsoft.gumroad.com">
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/welcome.png" alt="CumsoftOS" style="width:600px;height:80px;">
 </a>
