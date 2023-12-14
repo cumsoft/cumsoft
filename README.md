@@ -8,12 +8,13 @@
 &nbsp; 7️⃣ [ɪɴꜱᴛᴀɢʀᴀᴍ](https://instagram.com/cumsoftcumsoft?igshid=YmMyMTA2M2Y=) 
 </div>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 <a href="https://cumsoft.gumroad.com">
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/welcome.png" alt="CumsoftOS" style="width:600px;height:80px;">
 </a>
 <div align="center">
 <a href="https://cumsoft.gumroad.com">
-  <img src="https://github.com/cumsoft/cumsoft/blob/0bce1cf1e92fad4ae5adb421913d88c4f745cd2c/cumsoft2023_HTTP_ERROR.png" alt="CumsoftOS" style="width:575px;height:400px;">
+  <img src="https://github.com/cumsoft/cumsoft/blob/c6e455a541ba7843eeda9cec4597d9de676a7ba2/cumsoft_2K24_Bannerific.gif" alt="CumsoftOS" style="width:575px;height:400px;">
 </a>
 <br>
 <!---
