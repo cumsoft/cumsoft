@@ -14,7 +14,7 @@
 </a> --->
 <div align="center">
 <a href="https://cumsoft.gumroad.com">
-  <img src="https://github.com/cumsoft/cumsoft/blob/8f8dd75355801e3afd13877e2f98435edef2bdfe/cumbuntu_desktop_1024x1024.png" alt="CumsoftOS" style="width:800px;height:800px;">
+  <img src="https://github.com/cumsoft/cumsoft/blob/8f8dd75355801e3afd13877e2f98435edef2bdfe/cumbuntu_desktop_1024x1024.png" alt="CumsoftOS" style="width:650px;height:650px;">
 </a>
 <br>
 <!---
