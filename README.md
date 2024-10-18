@@ -4,7 +4,7 @@
 &nbsp;[ᴇᴍᴀɪʟ](mailto:cumsoft.subscribe@gmail.com)
 &nbsp;[ᴡᴇʙꜱɪᴛᴇ](https://cumsoft.wixsite.com/cumsoft)
 &nbsp;[ᴡᴇʙꜱɪᴛᴇ2](https://cumsoftcumsoft.github.io/)
-&nbsp;[ᴠɪʀᴜꜱᴛᴏᴛᴀʟ](https://www.virustotal.com/gui/collection/88e81efe67f5153218c0dd5b07ef9cdea6e8e48988132458a6a2bed80780957f)
+&nbsp;[ᴠɪʀᴜꜱᴛᴏᴛᴀʟ](https://www.virustotal.com/gui/user/Cumsoft/graphs)
 &nbsp;[ɪɴꜱᴛᴀɢʀᴀᴍ](https://instagram.com/cumsoftcumsoft?igshid=YmMyMTA2M2Y=) 
 </div>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
